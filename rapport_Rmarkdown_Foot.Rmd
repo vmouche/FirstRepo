@@ -33,6 +33,10 @@ Dans ce rapport nous analyserons  des profils de joueurs offensifs du championna
 # **Présentation des données**
 
 Nous transformons les données en fréquence d'évènements par heure de jeu.
+
+Modifications par hfavet :)
+I love GitHub -> c'est vraiment trop génial et super pratique, on a pas du
+tout galéré !
  
 ```{r import, echo = T}
 jouA <- read.csv2("joueurs.csv",header=TRUE,sep=";",row.names=1,encoding = "latin1")
