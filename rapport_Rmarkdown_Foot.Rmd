@@ -37,6 +37,7 @@ Nous transformons les données en fréquence d'évènements par heure de jeu.
 Modifications par hfavet :)
 I love GitHub -> c'est vraiment trop génial et super pratique, on a pas du
 tout galéré !
+Oui je suis d'accord les messages d'erreur on ne les a pas du tout vu mdrr
  
 ```{r import, echo = T}
 jouA <- read.csv2("joueurs.csv",header=TRUE,sep=";",row.names=1,encoding = "latin1")
